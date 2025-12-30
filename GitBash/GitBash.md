@@ -1,5 +1,5 @@
 GIT BASH
-- Mac comes with Git Bash pre-installed, buti if you're working on windows? 
+- Mac comes with Git Bash pre-installed, but what if you're working on windows? 
 
 1. Download link for GitBash: https://gitforwindows.org/
 2. Open installer > Yes > Run through the wizard > Agree to License > Click Next and Keep default options > Finish
@@ -26,6 +26,6 @@ Commands:
 - `rm <FileName>`: remove/delete file
 - `rm *`: removes all files in path
 - `pwd`: tells entire path and current directory
-- `rm -r <directorty/>`: removes directory
+- `rm -r <directory/>`: removes directory
 - `ls -a`: gives list of all folders in current directory (even hidden files)
 - `git rm --cached -r .`: removes everything from the staging area
